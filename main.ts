@@ -5,7 +5,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const RANT =
-  "The self-checkout machine accused me of theft today. I scanned a banana. " +
+  "The self-checkout machine has accused me of theft three times this week. I scanned a banana. " +
   "A banana. It froze, flashed red, and announced UNEXPECTED ITEM IN BAGGING AREA " +
   "like I had smuggled a television in my pocket. There is one human for twelve " +
   "machines and she is on break. I am now standing in a supermarket being " +
